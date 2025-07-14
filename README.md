@@ -17,3 +17,7 @@
 🔗 Смартлаб: https://smart-lab.ru/
 
 🔗 Пикабу: https://pikabu.ru/
+
+Автор: Михаил Шардин  
+[🔗 Моя онлайн-визитка](https://shardin.name/?utm_source=github)  
+[📢 Telegram «Умный Дом Инвестора»](https://t.me/+asaEcPax8o41MjQy)
