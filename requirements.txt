@@ -1,0 +1,4 @@
+tinkoff-investments
+fastapi
+uvicorn
+python-dotenv
