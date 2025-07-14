@@ -7,5 +7,7 @@
 Подробности использования в статье:
 
 🔗 Хабр: https://habr.com/p/927238/
+
 🔗 Смартлаб: https://smart-lab.ru/
+
 🔗 Пикабу: https://pikabu.ru/
