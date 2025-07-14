@@ -1,7 +1,7 @@
 # Это мини-сервер API на FastAPI, который позволяет в режиме реального времени 
 # получить лучшие заявки на покупку (BID) и продажу (OFFER) по инструменту 
 # с Московской биржи (через API Тинькофф Инвестиций), и выдает их в формате XML
-# для использования в Excel
+# для использования в Microsoft Excel или его свободном аналоге LibreOffice Calc
 
 # Автор: Михаил Шардин https://shardin.name/
 # Дата создания: 11.07.2025
@@ -45,8 +45,8 @@ def get_orderbook_xml(ticker: str = Query(...), class_code: str = Query(...)):
         best_bid = orderbook.bids[0] if orderbook.bids else None
         best_offer = orderbook.asks[0] if orderbook.asks else None
 
-        bid_price = f"{format_price(best_bid):.3f}".replace('.', ',') if best_bid else ""
-        offer_price = f"{format_price(best_offer):.3f}".replace('.', ',') if best_offer else ""
+        bid_price = f"{format_price(best_bid):.2f}".replace('.', ',') if best_bid else ""
+        offer_price = f"{format_price(best_offer):.2f}".replace('.', ',') if best_offer else ""
 
         xml = f"""
         <orderbook>
