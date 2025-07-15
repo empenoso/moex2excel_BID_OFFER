@@ -14,9 +14,9 @@
 
 🔗 Хабр: https://habr.com/p/927238/
 
-🔗 Смартлаб: https://smart-lab.ru/
+🔗 Смартлаб: https://smart-lab.ru/mobile/topic/1179974/
 
-🔗 Пикабу: https://pikabu.ru/
+🔗 Пикабу: https://pikabu.ru/@empenoso
 
 Автор: Михаил Шардин  
 [🔗 Моя онлайн-визитка](https://shardin.name/?utm_source=github)  
