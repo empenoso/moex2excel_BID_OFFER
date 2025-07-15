@@ -2,6 +2,8 @@
 
 <img width="2208" height="1493" alt="Screenshot" src="https://github.com/user-attachments/assets/48595452-c651-452f-83c9-947b21502892" />
 
+---
+
 Работает как локальный FastAPI-сервер, который Excel опрашивает через веб-запросы. В ответ скрипт возвращает XML с нужными параметрами.
 
 <img width="1437" height="524" alt="Screenshot" src="https://github.com/user-attachments/assets/96f9b316-2a2c-434b-afe5-fcc250f202ca" />
