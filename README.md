@@ -16,7 +16,7 @@
 
 🔗 Смартлаб: https://smart-lab.ru/mobile/topic/1179974/
 
-🔗 Пикабу: https://pikabu.ru/@empenoso
+🔗 Пикабу: https://pikabu.ru/story/_12959713
 
 Автор: Михаил Шардин  
 [🔗 Моя онлайн-визитка](https://shardin.name/?utm_source=github)  
